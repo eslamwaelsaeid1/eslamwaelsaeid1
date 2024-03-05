@@ -7,6 +7,6 @@
 
 ◼Languages and Tools:
 
-◽html    ◽css   ◽java script    ◽C++       ◽mongo DB      ◽node.js    ◽Express js    ◽ECMA Script6   ◽Git Hub     ◽Git    ◽illustrator    ◽photoshop
+◽html    ◽css   ◽java script    ◽C++  ◽React  ◽Redux     ◽mongo DB      ◽node.js    ◽Express js    ◽ECMA Script6   ◽Git Hub     ◽Git    ◽illustrator    ◽photoshop
 
 ◼MESSAGE ME AND LET'S TALK ABOUT YOUR BUSINESS.
